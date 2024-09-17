@@ -9,5 +9,4 @@ class BootCampApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
